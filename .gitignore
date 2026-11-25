@@ -1,0 +1,7 @@
+# Local publication staging artifacts and temporary files (Protocol 2)
+temp/
+checkpoints/
+PLAN.md
+.DS_Store
+Thumbs.db
+*.log
