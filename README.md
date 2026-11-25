@@ -2,6 +2,10 @@
 
 ![Zero-Output-Token AI in Google Apps Script with Gemini Decisions API](images/hero_banner.png)
 
+> **Companion Article**
+> - **DEV.to**: [Zero-Output-Token AI in Google Apps Script with Gemini Decisions API](https://dev.to/gde/zero-output-token-ai-in-google-apps-script-with-gemini-decisions-api-2maj)
+> - **Medium (Google Cloud - Community)**: Submitted (*pending review — link will be added once published*)
+
 Three self-contained, zero-dependency **[Google Apps Script (GAS)](https://workspace.google.com/products/apps-script/)** applications and a fair 4-method Gmail labeling latency benchmark demonstrating the **[Gemini Decisions API](https://aistudio.google.com/docs/decisions-api) (`gemini-decision-1`)** alongside **`gemini-3.8-flash`** and **`gemini-4-hydrogen`**.
 
 All scripts in `src/` are statically verified for Google Apps Script V8 syntax (`node --check`) and are designed for direct copy-paste execution inside the Google Apps Script web editor with zero external dependencies.
@@ -165,6 +169,7 @@ Once you have verified the one-shot tests, `src/production_runners.js` provides 
 
 ## 7. References
 
+- **Companion Article (DEV.to)**: [Zero-Output-Token AI in Google Apps Script with Gemini Decisions API](https://dev.to/gde/zero-output-token-ai-in-google-apps-script-with-gemini-decisions-api-2maj)
 - **Google Apps Script Official Product Page**: [https://workspace.google.com/products/apps-script/](https://workspace.google.com/products/apps-script/)
 - **Quotas for Google Services (Google Apps Script)**: [https://developers.google.com/apps-script/guides/services/quotas](https://developers.google.com/apps-script/guides/services/quotas)
 - **Gemini Decisions API Official Documentation**: [https://aistudio.google.com/docs/decisions-api](https://aistudio.google.com/docs/decisions-api)
